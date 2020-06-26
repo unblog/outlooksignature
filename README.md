@@ -12,11 +12,11 @@ Automatically create Outlook Standard Signature through collecting attributes fr
 
 ## Preface
 
-The purpose of this development is to deploy and distribute a uniform e-mail signature to any employees of a company, this in using Microsoft Outlook, in the sense of the corporate identity of organizations.
+The purpose of this development is to deploy and distribute a uniform e-mail signature to any employees of a company, this in using Microsoft Outlook, in the sense of the corporate identity of the organization.
 
 Within a organisation, system administrators are responsible for managing the signatures for the corporate identity. Most companies want to design the entire appearance of the signature.
 
-Outlook does not offer any direct options for this, since the email signature in Outlook is a client-side application and users can therefore create and change their own signature. However, there is the option to prevent access to the signature options using Group Policy. However, this does not resolve the problem of first creating and generating a standard signature and making it available to users.
+Outlook does not offer any direct options for this, since the email signature in Outlook is a client-side application and users can therefore create and change their own signature. However, there is the option to prevent access to the signature options using Group Policy. But, this does not resolve the problem of first creating and generating a standard signature and making it available to users.
 
 Where a centralized solution at the Outlook client level is preferred to distribute them via login script or GPOs, and you don't want to use an Exchange Transport Rules, or there is no Exchange Server available, this article can be used to give an approach to centralized solutions.
 
