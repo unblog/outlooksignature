@@ -26,7 +26,8 @@ The following VBScript creates an Outlook signature for clients, user data (attr
 
 The code lines are copied into an editor, for example Notepad or vs code and saved with the file extension .vbs.
 
-Adjustments to the signature can be made in the script between Begin of signature block and End of signature block.
+## Adjustments
+Be free and change your signature to match your corporate identity. Adjustments to the signature can be made in the script between 'BOF signature' and 'EOF signature'.
 
 ## Run the Script 
 On a workstation with Outlook 2013 / 2016 / 2019 / Office 365, during execution there is no output on the screen, after execution Outlook can be opened and thus create a new email, the signature now appears in the message, which looks similar to the figure below.

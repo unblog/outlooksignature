@@ -33,7 +33,7 @@ Set objSignatureObject = objEmailOptions.EmailSignature
 
 Set objSignatureEntries = objSignatureObject.EmailSignatureEntries
 
-' Beginning of signature block
+' BOF signature
 
 objSelection.Font.Name = "Calibri"
 objSelection.Font.Size = 11
@@ -62,7 +62,7 @@ objSelection.TypeText GetStreet & "  " & GetZip & " " & GetCity & "  " & GetNote
 objSelection.TypeParagraph()
 objSelection.TypeText "Telefon " & GetPhone & "  Fax " & GetFax & "  " & GetEmail & "  " & GetHomepage
 
-' End of signature block
+' EOF signature
 
 Set objSelection = objDoc.Range()
 
