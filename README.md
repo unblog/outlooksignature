@@ -27,7 +27,7 @@ The following VBScript creates an Outlook signature for clients, user data (attr
 The code lines are paste into an editor, for example Notepad or vs code and save it with file extension .vbs.
 
 ## Adjustments
-Be free and change your signature to match your corporate identity. Adjustments to the signature can be made in the script between **_BOF signature_** and **_EOF signature_**.
+Be free and change your signature to match your corporate identity. Adjustments can be made in the script between **_BOF signature_** and **_EOF signature_**.
 
 ## Run the Script 
 On a workstation with Outlook 2013 / 2016 / 2019 / Office 365, during execution there is no output on the screen, after hit the script, open Outlook and create a new email, the signature now appears in the message, which looks similar to the figure below.
@@ -35,7 +35,7 @@ On a workstation with Outlook 2013 / 2016 / 2019 / Office 365, during execution 
 ## Screenshot
 ![Outlook E-Mail Standard Signature](https://think.unblog.ch/wp-content/uploads/2020/06/outlook-signature.png)
 
-## Outlook signature client distribution
+## Outlook Signature distribution
 
 Scripts for login can be configured via GPOs. The settings for login and logout scripts can be found under User Configuration => Policies => Windows Settings => Scripts. The location for scripts that are assigned via GPOs is located under the path:
 ```
