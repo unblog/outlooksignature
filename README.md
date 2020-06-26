@@ -24,7 +24,7 @@ Where a centralized solution at the Outlook client level is preferred to distrib
 
 The following VBScript creates an Outlook signature for clients, user data (attributes) are read from Active Directory and inserted into the signature, after which the script adds the signature in new e-mails and replies.
 
-The code lines are copied into an editor, for example Notepad or vs code and saved with the file extension .vbs.
+The code lines are paste into an editor, for example Notepad or vs code and save it with file extension .vbs.
 
 ## Adjustments
 Be free and change your signature to match your corporate identity. Adjustments to the signature can be made in the script between **_BOF signature_** and **_EOF signature_**.
