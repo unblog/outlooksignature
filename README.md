@@ -20,7 +20,7 @@ Outlook does not offer any direct options for this, since the email signature in
 
 Where a centralized solution at the Outlook client level is preferred to distribute them via login script or GPOs, and you don't want to use an Exchange Transport Rules, or there is no Exchange Server available, this article can be used to give an approach to centralized solutions.
 
-## VBScript Outlook signature deployment
+## Outlook signature deployment
 
 The following VBScript creates an Outlook signature for clients, user data (attributes) are read from Active Directory and inserted into the signature, after which the script adds the signature in new e-mails and replies.
 
