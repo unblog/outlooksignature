@@ -2,13 +2,13 @@
 
 Automatically create Outlook Standard Signature through collecting attributes from Active Directory.
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/donkey/systeminfo)
-[![GitHub issues](https://img.shields.io/github/issues/donkey/systeminfo.svg)](https://github.com/donkey/systeminfo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/donkey/systeminfo.svg)](https://github.com/donkey/systeminfo/network)
-[![GitHub stars](https://img.shields.io/github/stars/donkey/systeminfo.svg)](https://github.com/donkey/systeminfo/stargazers)
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/donkey/systeminfo)
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)](https://github.com/donkey/systeminfo)
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/donkey/systeminfo)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/donkey/outlooksignature)
+[![GitHub issues](https://img.shields.io/github/issues/donkey/systeminfo.svg)](https://github.com/donkey/outlooksignature/issues)
+[![GitHub forks](https://img.shields.io/github/forks/donkey/systeminfo.svg)](https://github.com/donkey/outlooksignature/network)
+[![GitHub stars](https://img.shields.io/github/stars/donkey/systeminfo.svg)](https://github.com/donkey/outlooksignature/stargazers)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/donkey/outlooksignature)
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)](https://github.com/donkey/outlooksignature)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/donkey/outlooksignature)
 
 ## Preface
 
