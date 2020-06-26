@@ -55,4 +55,4 @@ This script is intentional developed in not very structured way, so it is simply
 
 ## license
 
-donkey/systeminfo is licensed under the MIT License.
+donkey/outlooksignature is licensed under the MIT License.
