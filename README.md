@@ -8,7 +8,7 @@ Automatically create Outlook Standard Signature through collecting attributes fr
 [![GitHub stars](https://img.shields.io/github/stars/donkey/systeminfo.svg)](https://github.com/donkey/outlooksignature/stargazers)
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/donkey/outlooksignature)
 [![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)](https://github.com/donkey/outlooksignature)
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/donkey/outlooksignature)
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/donkey/outlooksignature/blob/master/LICENSE)
 
 ## Preface
 
