@@ -43,7 +43,7 @@ Scripts for login can be configured via GPOs. The settings for login and logout 
 
 ## Feedback
 
-If you have problems, questions, ideas or suggestions, please contact my by posting to a suitable [mail](http://think.unblog.ch/kontakt).
+If you have problems, questions, ideas or suggestions, please contact my by posting to a suitable [mail](http://think.unblog.ch/sty-in-touch)
 
 ## Git
 ```
