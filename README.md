@@ -36,7 +36,12 @@ On a workstation with Outlook 2013 / 2016 / 2019 / Office 365, during execution 
 
 ## Outlook signature client distribution
 
-Scripts for login can be configured via GPOs. The settings for login and logout scripts can be found under User Configuration => Policies => Windows Settings => Scripts. The location for scripts that are assigned via GPOs is located under the path \\FQDN\SYSVOL\FQDN\policies\user\scripts\logon.
+Scripts for login can be configured via GPOs. The settings for login and logout scripts can be found under User Configuration => Policies => Windows Settings => Scripts. The location for scripts that are assigned via GPOs is located under the path:
+
+## Path
+```
+\\FQDN\SYSVOL\FQDN\policies\user\scripts\logon
+```
 
 ## Feedback
 
