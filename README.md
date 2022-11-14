@@ -1,3 +1,5 @@
+<link rel="me" href="https://mas.to/@unblog">
+
 # Outlook Standard E-Mail Signature
 
 Automatically create Outlook Standard Signature through collecting attributes from Active Directory.
