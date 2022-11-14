@@ -44,7 +44,8 @@ Scripts for login can be configured via GPOs. The settings for login and logout 
 
 ## Feedback
 
-If you have problems, questions, ideas or suggestions, please contact my by posting to a suitable [mail](http://think.unblog.ch/stay-in-touch)
+If you have problems, questions, ideas or suggestions, please contact my by posting to a suitable [mail](https://think.unblog.ch/stay-in-touch)
+
 <a href="https://mas.to/@unblog" rel="me">Mathstodon</a>
 
 ## Git
