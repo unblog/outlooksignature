@@ -46,7 +46,7 @@ Scripts for login can be configured via GPOs. The settings for login and logout 
 
 If you have problems, questions, ideas or suggestions, please contact my by posting to a suitable [mail](https://think.unblog.ch/stay-in-touch)
 
-<a href="https://mas.to/@unblog" rel="me">Mastodon</a>
+<a href="https://swiss.social/@unblog" rel="me">Mastodon</a>
 
 ## Git
 ```
