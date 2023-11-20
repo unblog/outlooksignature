@@ -2,7 +2,6 @@
 
 Automatically create Outlook Standard Signature through collecting attributes from Active Directory.
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/unblog/outlooksignature)
 [![GitHub issues](https://img.shields.io/github/issues/donkey/systeminfo.svg)](https://github.com/unblog/outlooksignature/issues)
 [![GitHub forks](https://img.shields.io/github/forks/donkey/systeminfo.svg)](https://github.com/unblog/outlooksignature/network)
 [![GitHub stars](https://img.shields.io/github/stars/donkey/systeminfo.svg)](https://github.com/unblog/outlooksignature/stargazers)
